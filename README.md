@@ -15,6 +15,10 @@
 </p>
 
 <p align="center">
+  <img width="700" src="https://i.imgur.com/5JYSmqI.png" alt="Border">
+</p>
+
+<p align="center">
   <img width="400" src="https://i.imgur.com/ofvEX0d.gif" alt="Border">
 </p>
 <p align="center">
@@ -46,6 +50,11 @@
 <p align="center">
   <img width="900" src="https://64.media.tumblr.com/324be6b27269e056762d6c288d10c4d1/4a70d2b166929a77-f7/s2048x3072/2f2e0d22c9869cc7d1e4305d479dbc6922e85c78.pnj" alt="Border">
 </p>
+
+<p align="center">
+  <img width="700" src="https://64.media.tumblr.com/e2fedbb365afb111b3bf5308bc2fb433/24023d8928b994b3-3f/s2048x3072/2fa973758073d840591a3d7cc51fbbcc2ebd531d.pnj" alt="Border">
+</p>
+
 
 <p align="center"> 
   <img width="400" src="https://i.imgur.com/4FbPCSK.gif">
